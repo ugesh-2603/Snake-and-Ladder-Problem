@@ -1,1 +1,1 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F461407924317840323%2F&psig=AOvVaw09NvU6JasKo6QhtS0q8yUG&ust=1684140323046000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDghuG19P4CFQAAAAAdAAAAABAF
+![WhatsApp Image 2023-05-14 at 2 18 10 PM](https://github.com/ugesh-2603/Snake-and-Ladder-Problem/assets/75109057/28711906-6aee-4e3d-b100-68384cb08dab)
