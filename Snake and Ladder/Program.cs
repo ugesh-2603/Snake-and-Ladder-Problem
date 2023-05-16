@@ -44,9 +44,19 @@
                 if (Player1_position < 0)
                    { Player1_position = 0; }
 
-                    Console.WriteLine("The position for Player 1 is : " + Player1_position);
-                    Console.ReadLine();
+                if (Player1_position > 100)
+                   { Player1_position = 100; }
+
+                Console.WriteLine("The position for Player 1 is : " + Player1_position);
+                    
             }
+
+            if (Player1_position == 100)
+            {
+                Console.WriteLine("The Player 1 Has Won the game");
+            }
+
+            Console.ReadLine();
         }
     }
 }
