@@ -53,7 +53,7 @@
 
             if (Player1_position == 100)
             {
-                Console.WriteLine("The Player 1 Has Won the game");
+                Console.WriteLine("The Player 1 Has Won, after total " + Player1_numberOfRolls + " rolls");
             }
 
             Console.ReadLine();
